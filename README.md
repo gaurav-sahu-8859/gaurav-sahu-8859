@@ -423,8 +423,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav-sahu-8859&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurav-sahu-8859&theme=tokyonight" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/gaurav-sahu-8859/gaurav-sahu-8859/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
