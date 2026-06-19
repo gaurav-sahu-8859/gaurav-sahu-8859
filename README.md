@@ -4,10 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=230&section=header&text=Gaurav%20Sahu&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Educator%20and%20Mentor&descSize=18&descAlignY=75&descAlign=50" />
 </p>
 
-<!-- TYPING HEADER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Gaurav+Sahu!;Full+Stack+%26+UI%2FUX+Developer;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored+🚀;Crafting+Experiences+That+Feel+Right+✨" alt="Typing SVG" />
+
 
 </h1>
+<!-- TYPING HEADER -->
+<p align="center">
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Gaurav+Sahu!;Full+Stack+%26+UI%2FUX+Developer;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored+🚀;Crafting+Experiences+That+Feel+Right+✨" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Gaurav+Sahu!;Full+Stack+Developer;UI%2FUX+Enthusiast;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored;Building+Modern+Web+Apps" />
+</p>
 
 <!-- ROLE BADGES -->
 ---
