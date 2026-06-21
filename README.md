@@ -1,20 +1,22 @@
 <!-- Animated Typing Header -->
-<h1 align="center">
+<!-- <h1 align="center">
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=230&section=header&text=Gaurav%20Sahu&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Educator%20and%20Mentor&descSize=18&descAlignY=75&descAlign=50" />
 </p>
+</h1> -->
 
-
-
-</h1>
-<!-- TYPING HEADER -->
 <p align="center">
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Gaurav+Sahu!;Full+Stack+%26+UI%2FUX+Developer;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored+🚀;Crafting+Experiences+That+Feel+Right+✨" alt="Typing SVG" /> -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Gaurav+Sahu!;Full+Stack+Developer;UI%2FUX+Enthusiast;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored;Building+Modern+Web+Apps" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=230&section=header&text=%20+👋%20Hi,+I'm+Gaurav%20Sahu&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Educator%20and%20Mentor&descSize=18&descAlignY=75&descAlign=50" />
 </p>
 
-<!-- ROLE BADGES -->
+<!-- TYPING HEADER -->
+<p align="center">
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋%20+I'm+Gaurav+Sahu!;Full+Stack+%26+UI%2FUX+Developer;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored+🚀;Crafting+Experiences+That+Feel+Right+✨" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Gaurav+Sahu!;Full+Stack+Developer;UI%2FUX+Enthusiast;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored;Crafting+Experiences+That+Feel+Right;Building+Modern+Web+Apps" />
+</p>
+
 ---
+<!-- ROLE BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-00D9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Programming%20Faculty-7B2FF7?style=for-the-badge" />
@@ -479,8 +481,3 @@ theme=black -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=120&section=footer"/>
 </p>
-
-<!---
-gaurav-sahu-8859/gaurav-sahu-8859 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
